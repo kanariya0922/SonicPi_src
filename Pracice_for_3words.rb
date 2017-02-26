@@ -14,5 +14,5 @@ live_loop :three_words do
   chord_player :ef4,:major
   chord_player :bf3,:major
   chord_player :c4,:minor
-  chord_player :af3,:major
+  chord_player :af3,:sus2
 end
